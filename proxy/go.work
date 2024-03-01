@@ -1,0 +1,10 @@
+go 1.21.5
+
+use (
+	./part1
+	./part2
+	./part3
+	./part4
+	./part5
+	./webserver
+)
